@@ -1,0 +1,63 @@
+.corporate{
+    background-color: #FAFAFA;
+}
+.btn-conpany{
+    background: linear-gradient(90deg, #064A99,#01A3C5) !important;
+    border: none !important;
+}
+.select-background{
+background-color: #EEEEEE;
+}
+.label-text{
+    font-size: 12px;
+    padding-right: 7px;
+}
+.col-size{
+    flex: 0% !important;
+    max-width: 18.66667% !important;
+}
+.text-name{
+    text-align: center;
+}
+.hover-zoom:hover {
+    transform: scale(1.25);
+    color: #01A3C5;
+  }
+.hover-zoom-minus:hover{
+    transform: scale(1.25);
+    z-index: 9;
+    color: #01A3C5;
+}
+.image-edit{
+    position: absolute;
+    top: 0;
+    right: 52px;
+    padding: 3px 7px;
+    border-radius: 57%;
+    background-color:#ECECECB8;
+    margin-top: 7px;
+}
+.text-edit svg{
+    vertical-align: initial;
+}
+.text-edit:hover{
+    color: #08467F;
+}
+.dropdown-arrow svg{
+    /* margin: -2px 6px; */
+    font-size: 12px;
+    vertical-align: initial;
+}
+.add-company{
+    padding: 0px 0.5rem 0px 0.5rem!important;
+}
+.add-company svg{
+    vertical-align: initial;
+}
+.btn{
+    padding: 0;
+}
+.highactive.btn-secondary:focus {
+    background: linear-gradient(90deg, #064A99,#01A3C5) !important;
+    color: #fff !important;
+  }
